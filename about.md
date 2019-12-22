@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-May nickname is wihoho, and I am a software engineer who is primarily focusing on developing reliable and scalable backend system. Previously, I also play with some machine learning projects and sometimes feel lost about machine learning due to the limitations of data and computational resources.
+大家好，我是花花，现在和老公居住在美国湾区。前不久我刚从新加坡研究所博士毕业，正在准备申请新加坡医学院。
 
-You may also touch me using the following ways:
+我们的留学求职得以顺利进行得益于许多过来人慷慨的分享。开设这个频道，是想把这些信息和能量传递下来，给准备或者正在做人生规划的小伙伴们一些参考。我们将用聊天的方式分享和记录我们的留学经历，在美国新加坡生活的体验以及对职业生活规划的探索，也想听到你们对这些话题的体验和感想。
 
-* wihoho@gmail.com
-* [Github](https://github.com/wihoho)
-* [Linkedin](http://sg.linkedin.com/in/gonglited)
+感谢朋友们关注我的频道，让我们在职业人生规划的道路上一起进步，做踏实乐观好奇的生活探索者。
+
+Weibo: huahua_chat
